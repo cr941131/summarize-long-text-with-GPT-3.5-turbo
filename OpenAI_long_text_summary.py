@@ -68,14 +68,6 @@ def extract_text_from_pdf(file_path):
         text = text[:length_without_references]
         return text
 
-def process_bar(start_num, end_num, start_str='Processing:', end_str='100%', total_length=40): 
-    try:
-        percent = start_num / (end_num-1)
-        bar = ''.join(["#%s"%''] * int(percent * total_length)) + ''
-        bar = '\r' + start_str + bar.ljust(total_length) + ' {:0>4.1f}%|'.format(percent*100) + end_str
-        print(bar, end='', flush=True)
-    except:pass
-
 def chunk_text(text, chunk_size=1800, overlap=50):
     chunks = []
     start = 0
