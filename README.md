@@ -61,6 +61,7 @@ summarize long text with GPT-3.5-turbo
 48. [00:44:10] Concerns arise from AI becoming more advanced and potentially causing chaos.
 ```
 
+## 生成的总结文章
 
 AI在科学论文中的应用和关注事项
 
@@ -87,3 +88,7 @@ AI工具还可以帮助我们生成论文的摘要和图表。然而，我们应
 在使用AI工具时，我们应该将其视为辅助工具，而不是代替人类创造力和智慧的工具。保存人类的智力和创造力对于科学进步至关重要。
 
 总的来说，AI在科学论文中的应用可以提高撰写、校对和整理的效率。然而，在使用AI工具时，我们需要保持谨慎和谨慎，并始终重视人类专家的参与。只有这样，我们才能真正实现AI在科学研究中的潜力，并确保科学研究的准确性和可靠性。
+
+## 程序界面
+![Clip_2024-05-24_18-38-09](https://github.com/cr941131/summarize-long-text-with-GPT-3.5-turbo/assets/55981391/61b9655a-a63b-498b-b14f-58719bdb4a2d)
+
